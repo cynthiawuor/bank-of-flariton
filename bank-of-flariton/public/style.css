@@ -1,0 +1,11 @@
+/* TransactionForm.module.css */
+.transactionForm {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .inputField {
+    margin-bottom: 10px;
+  }
+  

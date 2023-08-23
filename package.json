@@ -1,0 +1,19 @@
+{
+  "name": "bank-of-flariton",
+  "version": "1.0.0",
+  "description": "Introduction For this project, you’ll be building out a React application that displays a list of your recent bank transactions, among other features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --config webpack.config.js",
+    "test": "echo jest && exit 1",
+    "lint": "eslint . --ext js,jsx,ts,tsx --fix",
+    "watch": "webpack --watch --progress"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
